@@ -52,7 +52,17 @@
 Принимает число a, возвращает квадрат числа a
 **Usage:** `area(a)`
 
+
 ### Perimeter
 **Usage:** `perimeter(a)`
 Принимает число a, возвращает число a умноженное на 4
+
+
+# Commits
+987487182580973b7e394202257e03e74cd3c180 - Initial Commit
+9742bfc173cc85801548b61e2a1bb59820b33d46 - uploaded the whole repo
+cde0a2c0bcefe5a985b90e00068c9b08863d7450 - Updated readme.md - more documentation implemented
+fb76485c97a71dbea8f76f8420b815f697b0bc89 - fixed readme
+a77ea4f6608520a8d9ba34ae89ebfa3273af229b - Added more documentation thru comments
+ca7c01e31c2a4f07d792d7ce8924124c2d9790e3 - updated docs/readme.md
 
